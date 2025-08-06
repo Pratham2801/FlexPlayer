@@ -1,0 +1,19 @@
+#Xcode
+build/
+Build/
+*.xctoolchain/
+
+# Swift Package Manager
+.build/
+Packages/
+
+# User-specific files
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.swiftpm/
+*.db
+*.xcuserstate
+
+# macOS
+.DS_Store
